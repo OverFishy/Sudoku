@@ -43,6 +43,7 @@ hr {
   max-width: 610px;
 
   margin: 0 auto;
+  margin-bottom: 20px;
   display: grid;
   grid-template-columns: repeat(9, auto);
 }
